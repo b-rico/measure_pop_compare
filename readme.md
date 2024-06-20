@@ -9,31 +9,31 @@ This project showcases SQL skills through various scripts and queries. It includ
    git clone https://github.com/username/sql-project.git
    cd sql-project
 2. Create the database schema:
-    \i scripts/01_schema.sql
+     'scripts/01_schema.sql'
 3. Load initial data:
-    \i scripts/02_data_load.sql
+    'scripts/02_data_load.sql'
 4. Create views, stored procedures, triggers, functions and indexes:
-    \i scripts/03_views.sql
-    \i scripts/04_cdf_normal_function.sql
-    \i scripts/05_stored_procedures.sql
-    \i scripts/06_triggers.sql
-    \i scripts/07_indexes.sql
+    'scripts/03_views.sql'
+    'scripts/04_cdf_normal_function.sql'
+    'scripts/05_stored_procedures.sql'
+    'scripts/06_triggers.sql'
+    'scripts/07_indexes.sql'
    
 6. Run create function queries:
-    \i scripts/08_pop_compare.sql
+    'scripts/08_pop_compare.sql'
 
 ## Documentation
-    Schema Design
-    Data Load
-    Views
-    Stored Procedures
-    Triggers
-    Indexes
+    'data/Schema Design'
+    'data/Data Load'
+    'data/Views'
+    'data/Stored Procedures'
+    'data/Triggers'
+    'data/Indexes'
 
 ## Testing
 1. To run unit and integration tests:
-    \i tests/unit_tests.sql
-    \i tests/integration_tests.sql
+    'tests/unit_tests.sql'
+    'tests/integration_tests.sql'
 
 ## Directory Structure
     hedis-measure-pop-compare/
