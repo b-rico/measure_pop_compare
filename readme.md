@@ -36,38 +36,38 @@ This project showcases SQL skills through various scripts and queries. It includ
     \i tests/integration_tests.sql
 
 ## Directory Structure
-hedis-measure-pop-compare/
-│
-├── data/
-│   ├── initial_data_load.sql
-│   └── sample_data.csv
-│
-├── docs/
-│   ├── data_load.md
-│   ├── indexes.md
-│   ├── schema_design.md
-│   ├── stored_procedures.md
-│   ├── triggers.md
-│   └── views.md
-│
-├── scripts/
-│   ├── 01_schema.sql
-│   ├── 02_data_load.sql
-│   ├── 03_views.sql
-│   ├── 04_cdf_normal_function.sql
-│   ├── 05_stored_procedures.sql
-│   ├── 06_triggers.sql
-│   ├── 07_indexes.sql
-│   └── 08_queries.sql
-│
-├── tests/
-│   ├── integration_tests.sql
-│   └── unit_tests.sql
-│
-├── .gitattributes
-├── .gitignore
-├── LICENSE
-└── README.md
+    hedis-measure-pop-compare/
+    │
+    ├── data/
+    │   ├── initial_data_load.sql
+    │   └── sample_data.csv
+    │
+    ├── docs/
+    │   ├── data_load.md
+    │   ├── indexes.md
+    │   ├── schema_design.md
+    │   ├── stored_procedures.md
+    │   ├── triggers.md
+    │   └── views.md
+    │
+    ├── scripts/
+    │   ├── 01_schema.sql
+    │   ├── 02_data_load.sql
+    │   ├── 03_views.sql
+    │   ├── 04_cdf_normal_function.sql
+    │   ├── 05_stored_procedures.sql
+    │   ├── 06_triggers.sql
+    │   ├── 07_indexes.sql
+    │   └── 08_queries.sql
+    │
+    ├── tests/
+    │   ├── integration_tests.sql
+    │   └── unit_tests.sql
+    │
+    ├── .gitattributes
+    ├── .gitignore
+    ├── LICENSE
+    └── README.md
 
 ## Contact
 

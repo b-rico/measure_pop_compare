@@ -1,0 +1,11 @@
+pop_id,contract_lob,product_id,pop_name,measure_abbr,submeasure_name,submeasure_bucket,description,target,stretch_target,contract_yr,contract_yr2,submeasure_stratification,product_id_desc,measure_name,rate,denominator
+1,Commercial,101,Product A,MA,Submeasure A,Bucket A,Description A,90.0,95.0,MY24,MY24,Stratification A,Product A Desc,Measure A,88.5,200
+2,Commercial,102,Product B,MB,Submeasure B,Bucket B,Description B,85.0,90.0,MY24,MY24,Stratification B,Product B Desc,Measure B,82.3,150
+3,Commercial,103,Product C,MC,Submeasure C,Bucket C,Description C,88.0,93.0,MY24,MY24,Stratification C,Product C Desc,Measure C,85.7,180
+4,Commercial,104,Product D,MD,Submeasure D,Bucket D,Description D,92.0,97.0,MY24,MY24,Stratification D,Product D Desc,Measure D,91.2,220
+5,Commercial,105,Product E,ME,Submeasure E,Bucket E,Description E,87.0,92.0,MY24,MY24,Stratification E,Product E Desc,Measure E,87.4,210
+6,Commercial,106,Product F,MF,Submeasure F,Bucket F,Description F,89.0,94.0,MY24,MY24,Stratification F,Product F Desc,Measure F,89.6,230
+7,Commercial,107,Product G,MG,Submeasure G,Bucket G,Description G,91.0,96.0,MY24,MY24,Stratification G,Product G Desc,Measure G,90.1,240
+8,Commercial,108,Product H,MH,Submeasure H,Bucket H,Description H,84.0,89.0,MY24,MY24,Stratification H,Product H Desc,Measure H,83.9,170
+9,Commercial,109,Product I,MI,Submeasure I,Bucket I,Description I,86.0,91.0,MY24,MY24,Stratification I,Product I Desc,Measure I,86.5,190
+10,Commercial,110,Product J,MJ,Submeasure J,Bucket J,Description J,83.0,88.0,MY24,MY24,Stratification J,Product J Desc,Measure J,81.7,160
